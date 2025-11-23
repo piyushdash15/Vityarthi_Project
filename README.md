@@ -1,4 +1,5 @@
 SMART PASSWORD STRENGTH CHECKER
+
 The Smart Password Strength Checker is a Python-based GUI application built using Tkinter.
 It analyzes passwords in real time and provides:
 
